@@ -1,0 +1,5 @@
+Model,ROUGE,Inference_Time,Model_Size,Memory_Usage
+BART_Large,44.5,1.2,406,1200
+T5_Base,42.1,0.9,220,900
+PEGASUS,46.0,1.5,568,1500
+DistilBART,40.8,0.6,306,800
